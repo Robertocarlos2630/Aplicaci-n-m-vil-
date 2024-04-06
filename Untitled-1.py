@@ -8,7 +8,7 @@ root.title('Tu propio downloader de Youtube')
 root.configure(bg='#AACDE2')
 
 Label(root, text= 'Descargar tus videos',
-       font='arial 20 bold', bg= '#AACDE2').place(x=90, y=30)
+       font='arial 20 bold', bg= '#C5B4E3').place(x=90, y=30)
 
 link = StringVar()
 Label(root, text='Pega el link aqui:', font='arial 12',
